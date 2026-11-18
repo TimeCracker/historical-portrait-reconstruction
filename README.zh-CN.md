@@ -1,5 +1,9 @@
 # historical-portrait-reconstruction
 
+![李世民、赵匡胤、朱元璋的原画局部与既有 AI 写实演绎并排对照，左侧是原画](assets/banner.webp)
+
+[封面画作来源与全图](THIRD_PARTY_NOTICES.md#readme-banner)
+
 **历史原画 → 画像约束的写实人像 → 真实原画并排对照。**
 
 [English](README.md) · [Skill](skills/historical-portrait-reconstruction/SKILL.md) · [案例](examples/) · [参与贡献](CONTRIBUTING.md)

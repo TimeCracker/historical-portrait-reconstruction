@@ -1,5 +1,9 @@
 # historical-portrait-reconstruction
 
+![Li Shimin, Zhao Kuangyin, and Zhu Yuanzhang, each with a historical painting detail on the left and an AI interpretation on the right](assets/banner.webp)
+
+[Banner artwork and full images](THIRD_PARTY_NOTICES.md#readme-banner)
+
 **Historical painting → source-grounded photorealistic portrait → authentic side-by-side comparison.**
 
 [中文说明](README.zh-CN.md) · [Skill](skills/historical-portrait-reconstruction/SKILL.md) · [Examples](examples/) · [Contributing](CONTRIBUTING.md)

@@ -1,0 +1,189 @@
+{
+  "asset": "banner.webp",
+  "dimensions": [
+    2100,
+    727
+  ],
+  "sha256": "2e3ba506a08db6f033ac991ceb2415809471055a0c6610a14258a57141633e6e",
+  "method": "Rectangular crops and proportional Lanczos resizing in the comparison compositor, followed by a lossless WebP layout.",
+  "items": [
+    {
+      "id": "li-shimin",
+      "person": "李世民",
+      "source": {
+        "title": "唐太宗立像（一）",
+        "institution": "National Palace Museum, Taipei",
+        "artist": "Unknown",
+        "accession": "中畫000263N000000000",
+        "work_date": "Ming dynasty",
+        "date_source": "https://tcmb.culture.tw/zh-tw/detail?id=20211220000001&indexCode=BOCH_CountryCulture_61",
+        "provenance": "Nanxun Hall collection. The portrait was remounted in 1748.",
+        "catalogue_url": "https://digitalarchive.npm.gov.tw/Collection/Detail/1825?dep=P",
+        "full_image_and_rights_url": "https://commons.wikimedia.org/wiki/File:TangTaizong.jpg",
+        "scan_download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/TangTaizong.jpg/1280px-TangTaizong.jpg",
+        "rights_statement": "Wikimedia Commons marks this faithful 2D reproduction as public domain under PD-Art.",
+        "public_domain_mark_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "display_input_sha256": "b7ab13445bd9fddd8dc6ac2794f44d5aeda6ff4a6eee3892e0d54b32321e2352",
+        "display_input_dimensions": [
+          1280,
+          2652
+        ],
+        "crop_xyxy": [
+          410,
+          185,
+          930,
+          835
+        ],
+        "banner_box_xyxy": [
+          42,
+          211,
+          362,
+          611
+        ],
+        "retrieved_at": "2026-11-18"
+      },
+      "interpretation": {
+        "asset": "Previously generated portrait",
+        "note": "The earlier frontal portrait used multiple historical references. The Ming standing portrait was a supplementary reference and is the painting shown here.",
+        "input_sha256": "b3855bc25581333a56a866cfe0cd4423216e521cff3641a49bfbee8d0670021a",
+        "crop_xyxy": [
+          207,
+          0,
+          1087,
+          1100
+        ],
+        "banner_box_xyxy": [
+          370,
+          211,
+          690,
+          611
+        ]
+      }
+    },
+    {
+      "id": "zhao-kuangyin",
+      "person": "赵匡胤",
+      "source": {
+        "title": "宋太祖坐像",
+        "institution": "National Palace Museum, Taipei",
+        "artist": "Anonymous",
+        "accession": "中畫000302N000000000",
+        "work_date": "Song dynasty (960–1279)",
+        "date_source": "https://theme.npm.edu.tw/exh107/Treasures/en/page-2.html",
+        "provenance": "Nanxun Hall collection. The portrait is unsigned. The title slip probably dates to a Qing remounting.",
+        "catalogue_url": "https://digitalarchive.npm.gov.tw/Collection/Detail/1864?dep=P",
+        "full_image_and_rights_url": "https://commons.wikimedia.org/wiki/File:Song_Taizu.jpg",
+        "scan_download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Song_Taizu.jpg/1920px-Song_Taizu.jpg",
+        "rights_statement": "Wikimedia Commons marks this faithful 2D reproduction as public domain under PD-Art.",
+        "public_domain_mark_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "display_input_sha256": "7d3da3855c6ad81d4f8e1c11d3e698bcec225476c378e476403bd013adfa10e5",
+        "display_input_dimensions": [
+          1920,
+          2155
+        ],
+        "crop_xyxy": [
+          676,
+          36,
+          1204,
+          696
+        ],
+        "banner_box_xyxy": [
+          726,
+          211,
+          1046,
+          611
+        ],
+        "retrieved_at": "2026-11-18"
+      },
+      "interpretation": {
+        "asset": "Previously generated portrait",
+        "note": "The earlier frontal interpretation depicts the cream robe and extended hat wings of the reference.",
+        "input_sha256": "0a8ae9b771b7c6f9864ba281d74df24070bdf0769bd8fd42b3e5ae9997e202c5",
+        "crop_xyxy": [
+          212,
+          0,
+          684,
+          590
+        ],
+        "banner_box_xyxy": [
+          1054,
+          211,
+          1374,
+          611
+        ]
+      }
+    },
+    {
+      "id": "zhu-yuanzhang",
+      "person": "朱元璋",
+      "source": {
+        "title": "明太祖坐像（七）",
+        "institution": "National Palace Museum, Taipei",
+        "artist": "Unknown",
+        "accession": "中畫000311N000000000",
+        "work_date": "Ming dynasty",
+        "date_source": "https://commons.wikimedia.org/wiki/File:Portrait_assis_de_l%27empereur_Ming_Taizu.jpg",
+        "provenance": "Nanxun Hall collection. The earlier example used the round-faced court portrait.",
+        "catalogue_url": "https://digitalarchive.npm.gov.tw/Collection/Detail/1873?dep=P",
+        "full_image_and_rights_url": "https://commons.wikimedia.org/wiki/File:Portrait_assis_de_l%27empereur_Ming_Taizu.jpg",
+        "scan_download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Portrait_assis_de_l%27empereur_Ming_Taizu.jpg/3840px-Portrait_assis_de_l%27empereur_Ming_Taizu.jpg",
+        "rights_statement": "Wikimedia Commons marks this faithful 2D reproduction as public domain under PD-Art.",
+        "public_domain_mark_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "display_input_sha256": "b598ee11597c79687e0a3320f3457a0cba6ff729f0aecd1772c90bf416b5dee4",
+        "display_input_dimensions": [
+          1480,
+          1230
+        ],
+        "crop_xyxy": [
+          28,
+          130,
+          728,
+          1005
+        ],
+        "banner_box_xyxy": [
+          1410,
+          211,
+          1730,
+          611
+        ],
+        "crop_history": {
+          "prior_source_dimensions": [
+            3840,
+            6253
+          ],
+          "prior_source_sha256": "24b2a9df0db41dc1984f0abb19f1bb617b8011a3b1039a31911d75145423c649",
+          "prior_source_crop_xyxy": [
+            1410,
+            1421,
+            2529,
+            2913
+          ],
+          "prior_board_source_panel_xyxy": [
+            28,
+            120,
+            728,
+            1053
+          ],
+          "notes": "The source panel is re-cropped from the prior comparison board. Download details and the prior scan hash come from examples/ming-portraits/sources.json."
+        }
+      },
+      "interpretation": {
+        "asset": "Previously generated portrait",
+        "note": "Previously generated round-faced interpretation associated with this exact source painting.",
+        "input_sha256": "e6101cd60ddd9cbd3e648a37452929809a27df4bd3a7d619ed22dd52fd62fe67",
+        "crop_xyxy": [
+          4,
+          33,
+          1084,
+          1383
+        ],
+        "banner_box_xyxy": [
+          1738,
+          211,
+          2058,
+          611
+        ]
+      }
+    }
+  ]
+}
