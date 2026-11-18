@@ -1,0 +1,4 @@
+interface:
+  display_name: "历史画像写实转写"
+  short_description: "以真实原画约束写实人像，逐人交付可追溯的并排对照与来源记录"
+  default_prompt: "Use $historical-portrait-reconstruction to create a source-grounded portrait with the authentic painting and photorealistic interpretation side by side."

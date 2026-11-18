@@ -1,0 +1,13 @@
+{
+  "items": [
+    {
+      "id": "person-a",
+      "source": "inputs/person-a-source.jpg",
+      "portrait": "inputs/person-a-portrait.png",
+      "output": "outputs/person-a-comparison.png",
+      "title": "Person A",
+      "caption": "Collection, accession; work date and source limitation"
+    }
+  ]
+}
+

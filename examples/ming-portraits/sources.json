@@ -1,0 +1,1019 @@
+{
+  "schema_version": "1.0",
+  "release_content": "metadata-and-prompts-only",
+  "expected_person_count": 16,
+  "scope": "Ming dynasty emperors from Hongwu to Chongzhen; Southern Ming rulers are outside this example. Zhengtong and Tianshun refer to the same person.",
+  "record_basis": "Sanitized records from an earlier completed portrait workflow. The 16 source byte hashes were checked on 2026-11-18; this release does not claim a new independent catalogue or rights review for every item.",
+  "source_files_included": false,
+  "portrait_files_included": false,
+  "items": [
+    {
+      "index": 1,
+      "person_id": "hongwu",
+      "person_name": "朱元璋",
+      "temple_name": "明太祖",
+      "era": "洪武",
+      "source": {
+        "title": "明太祖坐像（七） 軸",
+        "institution": "國立故宮博物院，臺北",
+        "accession": "中畫000311N000000000",
+        "catalogue_page": "https://digitalarchive.npm.gov.tw/Collection/Detail/1873?dep=P",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Portrait_assis_de_l'empereur_Ming_Taizu.jpg",
+        "additional_record": null,
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Portrait_assis_de_l%27empereur_Ming_Taizu.jpg/3840px-Portrait_assis_de_l%27empereur_Ming_Taizu.jpg",
+        "work_date_recorded": "明代；具体绘制年份未核定",
+        "source_classification": "馆藏原画",
+        "provenance_note": "南薰殿传藏画像；原画裁切。",
+        "limitations": "选择宫廷传藏的圆脸坐像版本；不能等同于已证实真人面貌",
+        "dimensions": [
+          3840,
+          6253
+        ],
+        "sha256": "24b2a9df0db41dc1984f0abb19f1bb617b8011a3b1039a31911d75145423c649",
+        "retrieved_at": null
+      },
+      "rights": {
+        "status": "unverified-for-bundled-redistribution",
+        "file_included": false,
+        "repository_license_applies_to_source_image": false,
+        "note": "Review the rights statement for this exact downloaded file and version before redistribution. A museum catalogue link does not itself establish the scan’s licence."
+      },
+      "reference": {
+        "generation_crop_xyxy": [
+          1410,
+          1421,
+          2529,
+          2913
+        ],
+        "generation_reference_dimensions": [
+          900,
+          1200
+        ],
+        "historical_run_reference_sha256": "67a0b953007765a55bc845c24b2ca2c191e34765fe7c015da749dcdd334ebaf9",
+        "processing": "Rectangular crop; Hongwu additionally proportionally resized to 900 × 1200. No painting, retouching or colour adjustment.",
+        "comparison_crop_xyxy": [
+          1410,
+          1421,
+          2529,
+          2913
+        ]
+      },
+      "generation": {
+        "prompt_file": "prompts/01_hongwu.md",
+        "reference_image_required": true,
+        "model_as_reported": null,
+        "revision_reason": null
+      },
+      "input_filenames": {
+        "source": "inputs/01_hongwu_source.jpg",
+        "portrait": "inputs/01_hongwu_portrait.png"
+      },
+      "historical_likeness": "not-verified"
+    },
+    {
+      "index": 2,
+      "person_id": "jianwen",
+      "person_name": "朱允炆",
+      "temple_name": "建文帝",
+      "era": "建文",
+      "source": {
+        "title": "传为明惠帝半身像",
+        "institution": "图像转载于《国家人文历史》文章；原作收藏、作者与确切年代待核",
+        "accession": null,
+        "catalogue_page": null,
+        "source_page": "https://commons.wikimedia.org/wiki/File:Jianwen_Emperor.jpg",
+        "additional_record": "https://m.thepaper.cn/newsDetail_forward_24300631",
+        "download_url": "https://imagepphcloud.thepaper.cn/pph/image/266/525/785.jpg",
+        "work_date_recorded": "后世传绘；文章称清人补绘，原作年代未独立核定",
+        "source_classification": "后世传绘",
+        "provenance_note": "建文：后世传绘像的写实转写，不能作为同期写真。",
+        "limitations": "不得称同期写真或真实容貌复原；应标为后世传绘像的写实转译。文章刊图与Commons低清图同源风格。",
+        "dimensions": [
+          697,
+          1168
+        ],
+        "sha256": "bb4b4fe480dee9237a1501f06c40f164e71d3c91bbef18400dbf8696be9bb65b",
+        "retrieved_at": null
+      },
+      "rights": {
+        "status": "unverified-for-bundled-redistribution",
+        "file_included": false,
+        "repository_license_applies_to_source_image": false,
+        "note": "Review the rights statement for this exact downloaded file and version before redistribution. A museum catalogue link does not itself establish the scan’s licence."
+      },
+      "reference": {
+        "generation_crop_xyxy": [
+          68,
+          230,
+          628,
+          977
+        ],
+        "generation_reference_dimensions": [
+          560,
+          747
+        ],
+        "historical_run_reference_sha256": "79e92f7ab5a2564641c3d53a4afc6a07bfcc3c24d94c3544865005a51c2a2dab",
+        "processing": "Rectangular crop; Hongwu additionally proportionally resized to 900 × 1200. No painting, retouching or colour adjustment.",
+        "comparison_crop_xyxy": [
+          68,
+          230,
+          628,
+          977
+        ]
+      },
+      "generation": {
+        "prompt_file": "prompts/02_jianwen.md",
+        "reference_image_required": true,
+        "model_as_reported": null,
+        "revision_reason": null
+      },
+      "input_filenames": {
+        "source": "inputs/02_jianwen_source.jpg",
+        "portrait": "inputs/02_jianwen_portrait.png"
+      },
+      "historical_likeness": "not-verified"
+    },
+    {
+      "index": 3,
+      "person_id": "yongle",
+      "person_name": "朱棣",
+      "temple_name": "明成祖",
+      "era": "永乐",
+      "source": {
+        "title": "明成祖坐像 軸",
+        "institution": "國立故宮博物院，臺北",
+        "accession": "中畫000312N000000000",
+        "catalogue_page": "https://digitalarchive.npm.gov.tw/Collection/Detail/1874?dep=P",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Portrait_assis_de_l'empereur_Ming_Chengzu.jpg",
+        "additional_record": null,
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Portrait_assis_de_l%27empereur_Ming_Chengzu.jpg/1920px-Portrait_assis_de_l%27empereur_Ming_Chengzu.jpg",
+        "work_date_recorded": "明代；具体绘制年份未核定",
+        "source_classification": "馆藏原画",
+        "provenance_note": "南薰殿传藏画像；原画裁切。",
+        "limitations": "原画为明显三分侧脸，应保持此角度以便可比，不推演正面",
+        "dimensions": [
+          1920,
+          2786
+        ],
+        "sha256": "bd49a513279743b4a76a87454853c19b3be28076365ff6bf3526d45cf982a133",
+        "retrieved_at": null
+      },
+      "rights": {
+        "status": "unverified-for-bundled-redistribution",
+        "file_included": false,
+        "repository_license_applies_to_source_image": false,
+        "note": "Review the rights statement for this exact downloaded file and version before redistribution. A museum catalogue link does not itself establish the scan’s licence."
+      },
+      "reference": {
+        "generation_crop_xyxy": [
+          694,
+          428,
+          1255,
+          1176
+        ],
+        "generation_reference_dimensions": [
+          561,
+          748
+        ],
+        "historical_run_reference_sha256": "27de1eed910f2166780cb038517b6079e9616b441f65dd67590b21e683a09a26",
+        "processing": "Rectangular crop; Hongwu additionally proportionally resized to 900 × 1200. No painting, retouching or colour adjustment.",
+        "comparison_crop_xyxy": [
+          694,
+          428,
+          1255,
+          1176
+        ]
+      },
+      "generation": {
+        "prompt_file": "prompts/03_yongle.md",
+        "reference_image_required": true,
+        "model_as_reported": null,
+        "revision_reason": null
+      },
+      "input_filenames": {
+        "source": "inputs/03_yongle_source.jpg",
+        "portrait": "inputs/03_yongle_portrait.png"
+      },
+      "historical_likeness": "not-verified"
+    },
+    {
+      "index": 4,
+      "person_id": "hongxi",
+      "person_name": "朱高炽",
+      "temple_name": "明仁宗",
+      "era": "洪熙",
+      "source": {
+        "title": "明仁宗坐像 軸",
+        "institution": "國立故宮博物院，臺北",
+        "accession": "中畫000294N000000000",
+        "catalogue_page": "https://digitalarchive.npm.gov.tw/Collection/Detail/1856?dep=P",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Portrait_assis_de_l'empereur_Ming_Renzong.jpg",
+        "additional_record": null,
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Portrait_assis_de_l%27empereur_Ming_Renzong.jpg/1920px-Portrait_assis_de_l%27empereur_Ming_Renzong.jpg",
+        "work_date_recorded": "明代；具体绘制年份未核定",
+        "source_classification": "馆藏原画",
+        "provenance_note": "南薰殿传藏画像；原画裁切。",
+        "limitations": "不得用仅因亲缘关系而人为拉近其他皇帝五官",
+        "dimensions": [
+          1920,
+          2751
+        ],
+        "sha256": "edc11f8718ae830fab34e001cbaec4a4c0cfdae3e98303bd70619da02ae9b417",
+        "retrieved_at": null
+      },
+      "rights": {
+        "status": "unverified-for-bundled-redistribution",
+        "file_included": false,
+        "repository_license_applies_to_source_image": false,
+        "note": "Review the rights statement for this exact downloaded file and version before redistribution. A museum catalogue link does not itself establish the scan’s licence."
+      },
+      "reference": {
+        "generation_crop_xyxy": [
+          703,
+          331,
+          1264,
+          1079
+        ],
+        "generation_reference_dimensions": [
+          561,
+          748
+        ],
+        "historical_run_reference_sha256": "c33eb20a97ae9c71e5f77d0479a13a123a03f6fc015a86f5d1b18e93843c1f24",
+        "processing": "Rectangular crop; Hongwu additionally proportionally resized to 900 × 1200. No painting, retouching or colour adjustment.",
+        "comparison_crop_xyxy": [
+          703,
+          331,
+          1264,
+          1079
+        ]
+      },
+      "generation": {
+        "prompt_file": "prompts/04_hongxi.md",
+        "reference_image_required": true,
+        "model_as_reported": null,
+        "revision_reason": null
+      },
+      "input_filenames": {
+        "source": "inputs/04_hongxi_source.jpg",
+        "portrait": "inputs/04_hongxi_portrait.png"
+      },
+      "historical_likeness": "not-verified"
+    },
+    {
+      "index": 5,
+      "person_id": "xuande",
+      "person_name": "朱瞻基",
+      "temple_name": "明宣宗",
+      "era": "宣德",
+      "source": {
+        "title": "明宣宗坐像（一） 軸",
+        "institution": "國立故宮博物院，臺北",
+        "accession": "中畫000313N000000000",
+        "catalogue_page": "https://digitalarchive.npm.gov.tw/Collection/Detail/1875?dep=P",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Portrait_assis_de_l'empereur_Ming_Xuanzong.jpg",
+        "additional_record": null,
+        "download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Portrait_assis_de_l%27empereur_Ming_Xuanzong.jpg/1920px-Portrait_assis_de_l%27empereur_Ming_Xuanzong.jpg",
+        "work_date_recorded": "明代；馆方描述当出自明代宫廷画家之手，具体绘制年份未核定",
+        "source_classification": "馆藏原画",
+        "provenance_note": "南薰殿传藏画像；原画裁切。",
+        "limitations": "官方馆藏说明本幅为纸，不应受其他绢本条目混淆。肤色/胡须基于所选原图。",
+        "dimensions": [
+          1920,
+          2419
+        ],
+        "sha256": "9c89ca5c9922ca341dec59ca3ee95fffe93c1ee5ed8d1dcb39f8f1dbd4871b09",
+        "retrieved_at": null
+      },
+      "rights": {
+        "status": "unverified-for-bundled-redistribution",
+        "file_included": false,
+        "repository_license_applies_to_source_image": false,
+        "note": "Review the rights statement for this exact downloaded file and version before redistribution. A museum catalogue link does not itself establish the scan’s licence."
+      },
+      "reference": {
+        "generation_crop_xyxy": [
+          680,
+          220,
+          1300,
+          1047
+        ],
+        "generation_reference_dimensions": [
+          620,
+          827
+        ],
+        "historical_run_reference_sha256": "3167d7f75d2856296e218b6caef9585f78c5858dcff2b9d0d7ed7fe61fb1ee80",
+        "processing": "Rectangular crop; Hongwu additionally proportionally resized to 900 × 1200. No painting, retouching or colour adjustment.",
+        "comparison_crop_xyxy": [
+          680,
+          220,
+          1300,
+          1047
+        ]
+      },
+      "generation": {
+        "prompt_file": "prompts/05_xuande.md",
+        "reference_image_required": true,
+        "model_as_reported": null,
+        "revision_reason": null
+      },
+      "input_filenames": {
+        "source": "inputs/05_xuande_source.jpg",
+        "portrait": "inputs/05_xuande_portrait.png"
+      },
+      "historical_likeness": "not-verified"
+    },
+    {
+      "index": 6,
+      "person_id": "zhengtong",
+      "person_name": "朱祁镇",
+      "temple_name": "明英宗",
+      "era": "正统／天顺",
+      "source": {
+        "title": "明英宗坐像 軸",
+        "institution": "國立故宮博物院，臺北",
+        "accession": "中畫000314N000000000",
+        "catalogue_page": "https://digitalarchive.npm.gov.tw/Collection/Detail/1876?dep=P",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Portrait_assis_de_l'empereur_Ming_Yingzong.jpg",
+        "additional_record": null,
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Portrait_assis_de_l%27empereur_Ming_Yingzong.jpg",
+        "work_date_recorded": "承自明代宫廷；乾隆十三年（1748）修复重装，见文化资产官方记录",
+        "source_classification": "馆藏原画",
+        "provenance_note": "南薰殿传藏画像；原画裁切。",
+        "limitations": "正统与天顺为同一人，不生成重复两人",
+        "dimensions": [
+          2500,
+          3338
+        ],
+        "sha256": "5f05dca735aad1e4cb7463cda914c7c60afb5265554f91b525456ec8ce34bd0b",
+        "retrieved_at": null
+      },
+      "rights": {
+        "status": "unverified-for-bundled-redistribution",
+        "file_included": false,
+        "repository_license_applies_to_source_image": false,
+        "note": "Review the rights statement for this exact downloaded file and version before redistribution. A museum catalogue link does not itself establish the scan’s licence."
+      },
+      "reference": {
+        "generation_crop_xyxy": [
+          865,
+          580,
+          1645,
+          1620
+        ],
+        "generation_reference_dimensions": [
+          780,
+          1040
+        ],
+        "historical_run_reference_sha256": "305e2fc235cf5a31724ff45ccf3f5dbb8e314c10cf9db18e710b86a0376950ec",
+        "processing": "Rectangular crop; Hongwu additionally proportionally resized to 900 × 1200. No painting, retouching or colour adjustment.",
+        "comparison_crop_xyxy": [
+          900,
+          646,
+          1609,
+          1591
+        ]
+      },
+      "generation": {
+        "prompt_file": "prompts/06_zhengtong.md",
+        "reference_image_required": true,
+        "model_as_reported": null,
+        "revision_reason": null
+      },
+      "input_filenames": {
+        "source": "inputs/06_zhengtong_source.jpg",
+        "portrait": "inputs/06_zhengtong_portrait.png"
+      },
+      "historical_likeness": "not-verified"
+    },
+    {
+      "index": 7,
+      "person_id": "jingtai",
+      "person_name": "朱祁钰",
+      "temple_name": "明代宗",
+      "era": "景泰",
+      "source": {
+        "title": "传称明代宗像（后世传绘）",
+        "institution": "未知",
+        "accession": null,
+        "catalogue_page": null,
+        "source_page": "https://www.thepaper.cn/newsDetail_forward_34003100",
+        "additional_record": null,
+        "download_url": "https://imgpai.thepaper.cn/pph/newpai/image/20260903/9205f7eb-854c-4b27-b516-d34be2bc1c3e.jpg?pph_editor=1788446808046",
+        "work_date_recorded": "传称景泰帝的后世画像；来源归属待核",
+        "source_classification": "后世传绘",
+        "provenance_note": "景泰：后世传绘，来源归属待核；仅依此画转写。",
+        "limitations": "传称景泰帝的后世画像；来源归属待核",
+        "dimensions": [
+          851,
+          1158
+        ],
+        "sha256": "ad0415051c24c60702a4109fdec14833c106bcc1475411c585f6ba6815425ce4",
+        "retrieved_at": null
+      },
+      "rights": {
+        "status": "unverified-for-bundled-redistribution",
+        "file_included": false,
+        "repository_license_applies_to_source_image": false,
+        "note": "Review the rights statement for this exact downloaded file and version before redistribution. A museum catalogue link does not itself establish the scan’s licence."
+      },
+      "reference": {
+        "generation_crop_xyxy": [
+          120,
+          190,
+          720,
+          940
+        ],
+        "generation_reference_dimensions": [
+          600,
+          750
+        ],
+        "historical_run_reference_sha256": "ff1c9abeeb8188dd7c871dbd1b7c93fb0924285401ee81ddb28e163e9d68cad2",
+        "processing": "Rectangular crop; Hongwu additionally proportionally resized to 900 × 1200. No painting, retouching or colour adjustment.",
+        "comparison_crop_xyxy": [
+          120,
+          190,
+          720,
+          940
+        ]
+      },
+      "generation": {
+        "prompt_file": "prompts/07_jingtai.md",
+        "reference_image_required": true,
+        "model_as_reported": null,
+        "revision_reason": null
+      },
+      "input_filenames": {
+        "source": "inputs/07_jingtai_source.jpg",
+        "portrait": "inputs/07_jingtai_portrait.png"
+      },
+      "historical_likeness": "not-verified"
+    },
+    {
+      "index": 8,
+      "person_id": "chenghua",
+      "person_name": "朱见深",
+      "temple_name": "明宪宗",
+      "era": "成化",
+      "source": {
+        "title": "明宪宗坐像 轴",
+        "institution": "国立故宫博物院，台北",
+        "accession": "中畫000315N000000000",
+        "catalogue_page": "https://digitalarchive.npm.gov.tw/Collection/Detail/1877?dep=P",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Portrait_assis_de_l%27empereur_Ming_Xianzong.jpg",
+        "additional_record": null,
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Portrait_assis_de_l%27empereur_Ming_Xianzong.jpg",
+        "work_date_recorded": "明代宫廷肖像；作者未详",
+        "source_classification": "馆藏原画",
+        "provenance_note": "南薰殿传藏画像；原画裁切。",
+        "limitations": "明代宫廷肖像；作者未详",
+        "dimensions": [
+          2312,
+          3025
+        ],
+        "sha256": "a16cb70e792c0b75c730182b4f6c470a7ebcff2a05415d992bd3fe04326d1463",
+        "retrieved_at": null
+      },
+      "rights": {
+        "status": "unverified-for-bundled-redistribution",
+        "file_included": false,
+        "repository_license_applies_to_source_image": false,
+        "note": "Review the rights statement for this exact downloaded file and version before redistribution. A museum catalogue link does not itself establish the scan’s licence."
+      },
+      "reference": {
+        "generation_crop_xyxy": [
+          850,
+          520,
+          1470,
+          1295
+        ],
+        "generation_reference_dimensions": [
+          620,
+          775
+        ],
+        "historical_run_reference_sha256": "bda0e254bad041e42fdb74dfce71e52fb0b9ea490bdb014ef4d6fa589d92282b",
+        "processing": "Rectangular crop; Hongwu additionally proportionally resized to 900 × 1200. No painting, retouching or colour adjustment.",
+        "comparison_crop_xyxy": [
+          850,
+          520,
+          1470,
+          1295
+        ]
+      },
+      "generation": {
+        "prompt_file": "prompts/08_chenghua.md",
+        "reference_image_required": true,
+        "model_as_reported": null,
+        "revision_reason": "初版长须被加密加宽；按原画恢复稀疏长须"
+      },
+      "input_filenames": {
+        "source": "inputs/08_chenghua_source.jpg",
+        "portrait": "inputs/08_chenghua_portrait.png"
+      },
+      "historical_likeness": "not-verified"
+    },
+    {
+      "index": 9,
+      "person_id": "hongzhi",
+      "person_name": "朱祐樘",
+      "temple_name": "明孝宗",
+      "era": "弘治",
+      "source": {
+        "title": "明孝宗坐像 轴",
+        "institution": "国立故宫博物院，台北",
+        "accession": "中畫000316N000000000",
+        "catalogue_page": "https://digitalarchive.npm.gov.tw/Collection/Detail/1878?dep=P",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Portrait_assis_de_l%27empereur_Ming_Xiaozong.jpg",
+        "additional_record": null,
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Portrait_assis_de_l%27empereur_Ming_Xiaozong.jpg",
+        "work_date_recorded": "明代宫廷肖像；作者未详",
+        "source_classification": "馆藏原画",
+        "provenance_note": "南薰殿传藏画像；原画裁切。",
+        "limitations": "明代宫廷肖像；作者未详",
+        "dimensions": [
+          2281,
+          3066
+        ],
+        "sha256": "09ca6282de299c439232624cd2dd59b30ec705c976899be0cda3c733e086374d",
+        "retrieved_at": null
+      },
+      "rights": {
+        "status": "unverified-for-bundled-redistribution",
+        "file_included": false,
+        "repository_license_applies_to_source_image": false,
+        "note": "Review the rights statement for this exact downloaded file and version before redistribution. A museum catalogue link does not itself establish the scan’s licence."
+      },
+      "reference": {
+        "generation_crop_xyxy": [
+          850,
+          750,
+          1420,
+          1463
+        ],
+        "generation_reference_dimensions": [
+          570,
+          713
+        ],
+        "historical_run_reference_sha256": "3803d0822dd4f6d64a060a8d3bd21489d9c295a434325564817e42cc3044d365",
+        "processing": "Rectangular crop; Hongwu additionally proportionally resized to 900 × 1200. No painting, retouching or colour adjustment.",
+        "comparison_crop_xyxy": [
+          850,
+          750,
+          1420,
+          1463
+        ]
+      },
+      "generation": {
+        "prompt_file": "prompts/09_hongzhi.md",
+        "reference_image_required": true,
+        "model_as_reported": null,
+        "revision_reason": null
+      },
+      "input_filenames": {
+        "source": "inputs/09_hongzhi_source.jpg",
+        "portrait": "inputs/09_hongzhi_portrait.png"
+      },
+      "historical_likeness": "not-verified"
+    },
+    {
+      "index": 10,
+      "person_id": "zhengde",
+      "person_name": "朱厚照",
+      "temple_name": "明武宗",
+      "era": "正德",
+      "source": {
+        "title": "明武宗坐像 轴",
+        "institution": "国立故宫博物院，台北",
+        "accession": "中畫000317N000000000",
+        "catalogue_page": "https://digitalarchive.npm.gov.tw/Collection/Detail/1879?dep=P",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Portrait_assis_de_l%27empereur_Ming_Wuzong.png",
+        "additional_record": null,
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Portrait_assis_de_l%27empereur_Ming_Wuzong.png",
+        "work_date_recorded": "明代宫廷肖像；作者未详",
+        "source_classification": "馆藏原画",
+        "provenance_note": "南薰殿传藏画像；原画裁切。",
+        "limitations": "明代宫廷肖像；作者未详",
+        "dimensions": [
+          2067,
+          2904
+        ],
+        "sha256": "c109b29818328a32b6f2709d42496ca3f2469e34e9142b807573ddf2f56c0270",
+        "retrieved_at": null
+      },
+      "rights": {
+        "status": "unverified-for-bundled-redistribution",
+        "file_included": false,
+        "repository_license_applies_to_source_image": false,
+        "note": "Review the rights statement for this exact downloaded file and version before redistribution. A museum catalogue link does not itself establish the scan’s licence."
+      },
+      "reference": {
+        "generation_crop_xyxy": [
+          790,
+          375,
+          1320,
+          1038
+        ],
+        "generation_reference_dimensions": [
+          530,
+          663
+        ],
+        "historical_run_reference_sha256": "0c3f5c481f8c299cfa6eadfc4b61328b164443497bd6f51d2e621e5eb18dc646",
+        "processing": "Rectangular crop; Hongwu additionally proportionally resized to 900 × 1200. No painting, retouching or colour adjustment.",
+        "comparison_crop_xyxy": [
+          790,
+          375,
+          1320,
+          1038
+        ]
+      },
+      "generation": {
+        "prompt_file": "prompts/10_zhengde.md",
+        "reference_image_required": true,
+        "model_as_reported": null,
+        "revision_reason": null
+      },
+      "input_filenames": {
+        "source": "inputs/10_zhengde_source.png",
+        "portrait": "inputs/10_zhengde_portrait.png"
+      },
+      "historical_likeness": "not-verified"
+    },
+    {
+      "index": 11,
+      "person_id": "jiajing",
+      "person_name": "朱厚熜",
+      "temple_name": "明世宗",
+      "era": "嘉靖",
+      "source": {
+        "title": "明世宗坐像 轴",
+        "institution": "国立故宫博物院，台北",
+        "accession": "中畫000318N000000000",
+        "catalogue_page": "https://digitalarchive.npm.gov.tw/Collection/Detail/1880?dep=P",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Portrait_assis_de_l%27empereur_Jiajing.jpg",
+        "additional_record": null,
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Portrait_assis_de_l%27empereur_Jiajing.jpg",
+        "work_date_recorded": "明代宫廷肖像；作者未详",
+        "source_classification": "馆藏原画",
+        "provenance_note": "南薰殿传藏画像；原画裁切。",
+        "limitations": "明代宫廷肖像；作者未详",
+        "dimensions": [
+          2278,
+          3070
+        ],
+        "sha256": "8ed61fbe48059c6c5fd8d3c811293ac3ca8d08b2962608fef8b6c72277a84c16",
+        "retrieved_at": null
+      },
+      "rights": {
+        "status": "unverified-for-bundled-redistribution",
+        "file_included": false,
+        "repository_license_applies_to_source_image": false,
+        "note": "Review the rights statement for this exact downloaded file and version before redistribution. A museum catalogue link does not itself establish the scan’s licence."
+      },
+      "reference": {
+        "generation_crop_xyxy": [
+          850,
+          690,
+          1430,
+          1415
+        ],
+        "generation_reference_dimensions": [
+          580,
+          725
+        ],
+        "historical_run_reference_sha256": "50c8e8b9168d62cf924842fdd1ddd9a8b4ee4b167870a30bda8026ebc31de390",
+        "processing": "Rectangular crop; Hongwu additionally proportionally resized to 900 × 1200. No painting, retouching or colour adjustment.",
+        "comparison_crop_xyxy": [
+          850,
+          690,
+          1430,
+          1415
+        ]
+      },
+      "generation": {
+        "prompt_file": "prompts/11_jiajing.md",
+        "reference_image_required": true,
+        "model_as_reported": null,
+        "revision_reason": null
+      },
+      "input_filenames": {
+        "source": "inputs/11_jiajing_source.jpg",
+        "portrait": "inputs/11_jiajing_portrait.png"
+      },
+      "historical_likeness": "not-verified"
+    },
+    {
+      "index": 12,
+      "person_id": "longqing",
+      "person_name": "朱载坖",
+      "temple_name": "明穆宗",
+      "era": "隆庆",
+      "source": {
+        "title": "明穆宗坐像 軸",
+        "institution": "国立故宫博物院，台北",
+        "accession": "中畫000319N000000000",
+        "catalogue_page": "https://digitalarchive.npm.gov.tw/Collection/Detail/1881?dep=P",
+        "source_page": "https://commons.wikimedia.org/wiki/File:MingMuzong1.jpg",
+        "additional_record": null,
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/MingMuzong1.jpg/3840px-MingMuzong1.jpg",
+        "work_date_recorded": "Commons标明代（1368—1644）；馆方当前条目未列具体创作年，不能断言生前现场写生。",
+        "source_classification": "馆藏原画",
+        "provenance_note": "南薰殿传藏画像；原画裁切。",
+        "limitations": "馆方官方记录可核实的南薰殿明帝像；适用于依画写实转译，不等于确认真实容貌。",
+        "dimensions": [
+          3840,
+          5116
+        ],
+        "sha256": "f612fc715241b4ec36df8560c7127945657d9d6b2d5ee3d953e040638d5eb44f",
+        "retrieved_at": null
+      },
+      "rights": {
+        "status": "unverified-for-bundled-redistribution",
+        "file_included": false,
+        "repository_license_applies_to_source_image": false,
+        "note": "Review the rights statement for this exact downloaded file and version before redistribution. A museum catalogue link does not itself establish the scan’s licence."
+      },
+      "reference": {
+        "generation_crop_xyxy": [
+          1450,
+          1000,
+          2350,
+          2200
+        ],
+        "generation_reference_dimensions": [
+          900,
+          1200
+        ],
+        "historical_run_reference_sha256": "6c7423950a45e6283b799704b554cc111c10cb71770fb1dfcd1c4bf23a0c3d67",
+        "processing": "Rectangular crop; Hongwu additionally proportionally resized to 900 × 1200. No painting, retouching or colour adjustment.",
+        "comparison_crop_xyxy": [
+          1450,
+          1000,
+          2350,
+          2200
+        ]
+      },
+      "generation": {
+        "prompt_file": "prompts/12_longqing.md",
+        "reference_image_required": true,
+        "model_as_reported": null,
+        "revision_reason": null
+      },
+      "input_filenames": {
+        "source": "inputs/12_longqing_source.jpg",
+        "portrait": "inputs/12_longqing_portrait.png"
+      },
+      "historical_likeness": "not-verified"
+    },
+    {
+      "index": 13,
+      "person_id": "wanli",
+      "person_name": "朱翊钧",
+      "temple_name": "明神宗",
+      "era": "万历",
+      "source": {
+        "title": "明神宗坐像 軸",
+        "institution": "国立故宫博物院，台北",
+        "accession": "中畫000297N000000000",
+        "catalogue_page": "https://digitalarchive.npm.gov.tw/Collection/Detail/1859?dep=P",
+        "source_page": "https://commons.wikimedia.org/wiki/File:MingShenzong1.jpg",
+        "additional_record": null,
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/MingShenzong1.jpg/3840px-MingShenzong1.jpg",
+        "work_date_recorded": "Commons标明代（1368—1644）；馆方当前条目未列具体创作年，不能断言生前现场写生。",
+        "source_classification": "馆藏原画",
+        "provenance_note": "南薰殿传藏画像；原画裁切。",
+        "limitations": "馆方官方记录可核实的南薰殿明帝像；适用于依画写实转译，不等于确认真实容貌。",
+        "dimensions": [
+          3840,
+          5535
+        ],
+        "sha256": "45501b2e05184b45ff0a3f005df11a9f38d0f6f7245f0e64533780ce0cec2a30",
+        "retrieved_at": null
+      },
+      "rights": {
+        "status": "unverified-for-bundled-redistribution",
+        "file_included": false,
+        "repository_license_applies_to_source_image": false,
+        "note": "Review the rights statement for this exact downloaded file and version before redistribution. A museum catalogue link does not itself establish the scan’s licence."
+      },
+      "reference": {
+        "generation_crop_xyxy": [
+          1420,
+          1110,
+          2520,
+          2577
+        ],
+        "generation_reference_dimensions": [
+          1100,
+          1467
+        ],
+        "historical_run_reference_sha256": "c7beb03a2cf71f55f015868a6fd70b2f1659aef58d1a922a2ae52efda4c83a9c",
+        "processing": "Rectangular crop; Hongwu additionally proportionally resized to 900 × 1200. No painting, retouching or colour adjustment.",
+        "comparison_crop_xyxy": [
+          1420,
+          1110,
+          2520,
+          2577
+        ]
+      },
+      "generation": {
+        "prompt_file": "prompts/13_wanli.md",
+        "reference_image_required": true,
+        "model_as_reported": null,
+        "revision_reason": null
+      },
+      "input_filenames": {
+        "source": "inputs/13_wanli_source.jpg",
+        "portrait": "inputs/13_wanli_portrait.png"
+      },
+      "historical_likeness": "not-verified"
+    },
+    {
+      "index": 14,
+      "person_id": "taichang",
+      "person_name": "朱常洛",
+      "temple_name": "明光宗",
+      "era": "泰昌",
+      "source": {
+        "title": "明光宗坐像 軸",
+        "institution": "国立故宫博物院，台北",
+        "accession": "中畫000298N000000000",
+        "catalogue_page": "https://digitalarchive.npm.gov.tw/Collection/Detail/1860?dep=P",
+        "source_page": "https://commons.wikimedia.org/wiki/File:MingGuangzong1.jpg",
+        "additional_record": null,
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/MingGuangzong1.jpg/3840px-MingGuangzong1.jpg",
+        "work_date_recorded": "Commons标明代（1368—1644）；馆方当前条目未列具体创作年，不能断言生前现场写生。",
+        "source_classification": "馆藏原画",
+        "provenance_note": "南薰殿传藏画像；原画裁切。",
+        "limitations": "馆方官方记录可核实的南薰殿明帝像；适用于依画写实转译，不等于确认真实容貌。",
+        "dimensions": [
+          3840,
+          5900
+        ],
+        "sha256": "36a0d4e06f6dafccae58bd795982755690c2c8e9c68d3845976b3c7a00b74d6a",
+        "retrieved_at": null
+      },
+      "rights": {
+        "status": "unverified-for-bundled-redistribution",
+        "file_included": false,
+        "repository_license_applies_to_source_image": false,
+        "note": "Review the rights statement for this exact downloaded file and version before redistribution. A museum catalogue link does not itself establish the scan’s licence."
+      },
+      "reference": {
+        "generation_crop_xyxy": [
+          1360,
+          990,
+          2480,
+          2483
+        ],
+        "generation_reference_dimensions": [
+          1120,
+          1493
+        ],
+        "historical_run_reference_sha256": "4f253141ae184f7b75a4afa4795ffbcfaace504326c40b29e4fb4ba8ebef6548",
+        "processing": "Rectangular crop; Hongwu additionally proportionally resized to 900 × 1200. No painting, retouching or colour adjustment.",
+        "comparison_crop_xyxy": [
+          1360,
+          990,
+          2480,
+          2483
+        ]
+      },
+      "generation": {
+        "prompt_file": "prompts/14_taichang.md",
+        "reference_image_required": true,
+        "model_as_reported": null,
+        "revision_reason": null
+      },
+      "input_filenames": {
+        "source": "inputs/14_taichang_source.jpg",
+        "portrait": "inputs/14_taichang_portrait.png"
+      },
+      "historical_likeness": "not-verified"
+    },
+    {
+      "index": 15,
+      "person_id": "tianqi",
+      "person_name": "朱由校",
+      "temple_name": "明熹宗",
+      "era": "天启",
+      "source": {
+        "title": "明熹宗坐像 軸",
+        "institution": "国立故宫博物院，台北",
+        "accession": "中畫000320N000000000",
+        "catalogue_page": "https://digitalarchive.npm.gov.tw/Collection/Detail/1882?dep=P",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Portrait_assis_de_l'empereur_Tianqi.jpg",
+        "additional_record": null,
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Portrait_assis_de_l%27empereur_Tianqi.jpg/3840px-Portrait_assis_de_l%27empereur_Tianqi.jpg",
+        "work_date_recorded": "Commons标明代（1368—1644）；馆方当前条目未列具体创作年，不能断言生前现场写生。",
+        "source_classification": "馆藏原画",
+        "provenance_note": "南薰殿传藏画像；原画裁切。",
+        "limitations": "馆方官方记录可核实的南薰殿明帝像；适用于依画写实转译，不等于确认真实容貌。",
+        "dimensions": [
+          3840,
+          4955
+        ],
+        "sha256": "83797ca418deda3eade08bedaa9ea266ed159befa0083b1e994746e08583a76c",
+        "retrieved_at": null
+      },
+      "rights": {
+        "status": "unverified-for-bundled-redistribution",
+        "file_included": false,
+        "repository_license_applies_to_source_image": false,
+        "note": "Review the rights statement for this exact downloaded file and version before redistribution. A museum catalogue link does not itself establish the scan’s licence."
+      },
+      "reference": {
+        "generation_crop_xyxy": [
+          1500,
+          1400,
+          2370,
+          2560
+        ],
+        "generation_reference_dimensions": [
+          870,
+          1160
+        ],
+        "historical_run_reference_sha256": "6af103554f7190dc62cd8f8e8ad2a8922f963772d80dbf6cddcdceefa275696c",
+        "processing": "Rectangular crop; Hongwu additionally proportionally resized to 900 × 1200. No painting, retouching or colour adjustment.",
+        "comparison_crop_xyxy": [
+          1500,
+          1400,
+          2370,
+          2560
+        ]
+      },
+      "generation": {
+        "prompt_file": "prompts/15_tianqi.md",
+        "reference_image_required": true,
+        "model_as_reported": null,
+        "revision_reason": null
+      },
+      "input_filenames": {
+        "source": "inputs/15_tianqi_source.jpg",
+        "portrait": "inputs/15_tianqi_portrait.png"
+      },
+      "historical_likeness": "not-verified"
+    },
+    {
+      "index": 16,
+      "person_id": "chongzhen",
+      "person_name": "朱由检",
+      "temple_name": "明思宗",
+      "era": "崇祯",
+      "source": {
+        "title": "《绣像铁冠图》崇祯帝像，1907年上海书局刊本",
+        "institution": "哈佛图书馆藏本；图像由Wikimedia Commons转引",
+        "accession": "Harvard DRS 49812656，第5页局部",
+        "catalogue_page": "https://iiif.lib.harvard.edu/manifests/view/drs:49812656",
+        "source_page": "https://commons.wikimedia.org/wiki/File:%E6%98%8E%E6%84%8D%E5%B8%9D%E6%9C%B1%E7%94%B1%E6%A3%80.jpg",
+        "additional_record": null,
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/%E6%98%8E%E6%84%8D%E5%B8%9D%E6%9C%B1%E7%94%B1%E6%A3%80.jpg",
+        "work_date_recorded": "1907年刊本，清末后世小说插图。",
+        "source_classification": "后世版画",
+        "provenance_note": "崇祯：1907 年刊本后世小说插图；不作为真容依据。",
+        "limitations": "吴美凤《上之所好，下必甚焉——从明熹宗坐像看晚明宫廷与民间的交流》，《故宫学刊》2013，纸本页232注1指出崇祯并未留下坐像，常见《清史图典》崇祯帝像由近人绘制。",
+        "dimensions": [
+          780,
+          1784
+        ],
+        "sha256": "688f6c181edb893484c64286a46c5b59975785b98112b94fe822f3df29b55e8b",
+        "retrieved_at": null
+      },
+      "rights": {
+        "status": "unverified-for-bundled-redistribution",
+        "file_included": false,
+        "repository_license_applies_to_source_image": false,
+        "note": "Review the rights statement for this exact downloaded file and version before redistribution. A museum catalogue link does not itself establish the scan’s licence."
+      },
+      "reference": {
+        "generation_crop_xyxy": [
+          105,
+          280,
+          590,
+          927
+        ],
+        "generation_reference_dimensions": [
+          485,
+          647
+        ],
+        "historical_run_reference_sha256": "8829106eeba72d69665d7717a6183fb92e2221a167db4cd9fccb031a0285caa0",
+        "processing": "Rectangular crop; Hongwu additionally proportionally resized to 900 × 1200. No painting, retouching or colour adjustment.",
+        "comparison_crop_xyxy": [
+          105,
+          280,
+          590,
+          927
+        ]
+      },
+      "generation": {
+        "prompt_file": "prompts/16_chongzhen.md",
+        "reference_image_required": true,
+        "model_as_reported": null,
+        "revision_reason": null
+      },
+      "input_filenames": {
+        "source": "inputs/16_chongzhen_source.jpg",
+        "portrait": "inputs/16_chongzhen_portrait.png"
+      },
+      "historical_likeness": "not-verified"
+    }
+  ]
+}

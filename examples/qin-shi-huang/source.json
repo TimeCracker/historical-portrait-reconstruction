@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.0",
+  "person_id": "qin-shi-huang",
+  "person_name": "秦始皇 嬴政",
+  "release_content": "metadata-and-prompt-only",
+  "source": {
+    "title": "《高臣图》秦始皇像",
+    "creator": null,
+    "institution": "British Library",
+    "accession": "Or 11515, f.11v",
+    "work_date": "1800–1900; catalogue date for the album",
+    "material": "Ink and colour on paper",
+    "collection_area": "Oriental Manuscripts",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Qin_Shi_Huang.jpg",
+    "catalogue_page": "https://searcharchives.bl.uk/catalog/032-003315401",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Qin_Shi_Huang.jpg",
+    "source_dimensions": [
+      1279,
+      2000
+    ],
+    "sha256": "e959c3cc5d04d8eea387392d34a2d527c54dd2f66e16c88ef525d8d10a7b3ae7",
+    "retrieved_at": null,
+    "metadata_reviewed_at": "2026-11-18",
+    "identity_basis": "The source file identifies Qin Shi Huang; its embedded British Library metadata identifies Or. 11515, f.11v. The catalogue dates the album, not this sitter’s lifetime.",
+    "project_or_collection": "Korean Manuscripts"
+  },
+  "rights": {
+    "status": "unverified-for-bundled-redistribution",
+    "file_included": false,
+    "repository_license_applies_to_source_image": false,
+    "declared_by_file_page": "Wikimedia Commons declares PD-Art / PD-old-100-expired and displays a Public Domain Mark. The page qualifies reuse of the photographic reproduction outside the United States.",
+    "file_metadata_notice": "©The British Library Board",
+    "rights_source_url": "https://commons.wikimedia.org/wiki/File:Qin_Shi_Huang.jpg",
+    "institution_terms_url": "https://www.bl.uk/terms",
+    "checked_at": "2026-11-18",
+    "decision": "This release distributes source records and prompts only. It does not assert worldwide public-domain status or relicense the scan under MIT."
+  },
+  "reference": {
+    "crop_xyxy": [
+      160,
+      490,
+      1080,
+      1717
+    ],
+    "coordinate_system": "Pixel coordinates in the 1279 × 2000 source image; left/top inclusive, right/bottom exclusive.",
+    "processing": "Rectangular crop only; no repainting, retouching or colour adjustment.",
+    "historical_run_reference_sha256": "f4c2b783f10cbf34245669de43e09245491991d75535112a6697635b9bcfe0b0"
+  },
+  "features": {
+    "lock": [
+      "Three-quarter head turn toward the viewer’s right",
+      "High domed forehead; swept brows with lowered inner ends",
+      "Long projecting curved nose with rounded tip",
+      "Full cheeks and broad lower face",
+      "Small closed pursed mouth under a sideways moustache",
+      "Broad fan-shaped beard with separated strands",
+      "Source headdress perspective and garment silhouette"
+    ],
+    "soft": [],
+    "unknown": [
+      "Photographic skin texture",
+      "Anatomical depth behind painted contours",
+      "Unseen facial surfaces"
+    ],
+    "forbid": [
+      "Actor casting or a generic emperor face",
+      "A newly invented frontal view",
+      "Turning paper stains into scars",
+      "Changing the robe into a fantasy black dragon costume"
+    ]
+  },
+  "generation": {
+    "prompt_file": "prompt.md",
+    "reference_image_required": true,
+    "backend_requirement": "A hosted image-generation system that accepts an actual reference image.",
+    "historical_run_backend": "ChatGPT image generation",
+    "model_as_reported": null,
+    "seed": null,
+    "reproduction_limit": "The prompt and source constrain a new interpretation; stochastic image generation is not promised to reproduce the previous pixels."
+  },
+  "comparison": {
+    "example_manifest": "comparison.example.json",
+    "source": "inputs/qin_source.jpg",
+    "portrait": "inputs/qin_portrait.png",
+    "output": "outputs/qin_comparison.png"
+  },
+  "interpretation_limit": "A later portrait, dated with its nineteenth-century album; not a Qin-period likeness. Similarity to this painting cannot verify the historical person’s face."
+}

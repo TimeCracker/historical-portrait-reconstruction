@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "id": "qin-shi-huang",
+      "source": "inputs/qin_source.jpg",
+      "portrait": "inputs/qin_portrait.png",
+      "output": "outputs/qin_comparison.png",
+      "crop": [
+        160,
+        490,
+        1080,
+        1717
+      ],
+      "title": "Qin Shi Huang | Source and interpretation",
+      "caption": "Source: British Library, Or 11515, f.11v, Kosindo (1800–1900). Right: AI interpretation. Historical likeness is not verified."
+    }
+  ]
+}

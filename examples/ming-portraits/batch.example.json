@@ -1,0 +1,228 @@
+{
+  "items": [
+    {
+      "id": "hongwu",
+      "source": "inputs/01_hongwu_source.jpg",
+      "portrait": "inputs/01_hongwu_portrait.png",
+      "output": "outputs/01_hongwu_comparison.png",
+      "crop": [
+        1410,
+        1421,
+        2529,
+        2913
+      ],
+      "title": "洪武 | 朱元璋",
+      "caption": "国立故宫博物院，台北 | 馆藏原画。右：AI 写实转写，不能验证真人相貌。"
+    },
+    {
+      "id": "jianwen",
+      "source": "inputs/02_jianwen_source.jpg",
+      "portrait": "inputs/02_jianwen_portrait.png",
+      "output": "outputs/02_jianwen_comparison.png",
+      "crop": [
+        68,
+        230,
+        628,
+        977
+      ],
+      "title": "建文 | 朱允炆",
+      "caption": "原作收藏、作者及年代待核 | 后世传绘。右：AI 写实转写，不能验证真人相貌。"
+    },
+    {
+      "id": "yongle",
+      "source": "inputs/03_yongle_source.jpg",
+      "portrait": "inputs/03_yongle_portrait.png",
+      "output": "outputs/03_yongle_comparison.png",
+      "crop": [
+        694,
+        428,
+        1255,
+        1176
+      ],
+      "title": "永乐 | 朱棣",
+      "caption": "国立故宫博物院，台北 | 馆藏原画。右：AI 写实转写，不能验证真人相貌。"
+    },
+    {
+      "id": "hongxi",
+      "source": "inputs/04_hongxi_source.jpg",
+      "portrait": "inputs/04_hongxi_portrait.png",
+      "output": "outputs/04_hongxi_comparison.png",
+      "crop": [
+        703,
+        331,
+        1264,
+        1079
+      ],
+      "title": "洪熙 | 朱高炽",
+      "caption": "国立故宫博物院，台北 | 馆藏原画。右：AI 写实转写，不能验证真人相貌。"
+    },
+    {
+      "id": "xuande",
+      "source": "inputs/05_xuande_source.jpg",
+      "portrait": "inputs/05_xuande_portrait.png",
+      "output": "outputs/05_xuande_comparison.png",
+      "crop": [
+        680,
+        220,
+        1300,
+        1047
+      ],
+      "title": "宣德 | 朱瞻基",
+      "caption": "国立故宫博物院，台北 | 馆藏原画。右：AI 写实转写，不能验证真人相貌。"
+    },
+    {
+      "id": "zhengtong",
+      "source": "inputs/06_zhengtong_source.jpg",
+      "portrait": "inputs/06_zhengtong_portrait.png",
+      "output": "outputs/06_zhengtong_comparison.png",
+      "crop": [
+        900,
+        646,
+        1609,
+        1591
+      ],
+      "title": "正统／天顺 | 朱祁镇",
+      "caption": "国立故宫博物院，台北 | 馆藏原画。右：AI 写实转写，不能验证真人相貌。"
+    },
+    {
+      "id": "jingtai",
+      "source": "inputs/07_jingtai_source.jpg",
+      "portrait": "inputs/07_jingtai_portrait.png",
+      "output": "outputs/07_jingtai_comparison.png",
+      "crop": [
+        120,
+        190,
+        720,
+        940
+      ],
+      "title": "景泰 | 朱祁钰",
+      "caption": "原作收藏、作者及年代待核 | 后世传绘。右：AI 写实转写，不能验证真人相貌。"
+    },
+    {
+      "id": "chenghua",
+      "source": "inputs/08_chenghua_source.jpg",
+      "portrait": "inputs/08_chenghua_portrait.png",
+      "output": "outputs/08_chenghua_comparison.png",
+      "crop": [
+        850,
+        520,
+        1470,
+        1295
+      ],
+      "title": "成化 | 朱见深",
+      "caption": "国立故宫博物院，台北 | 馆藏原画。右：AI 写实转写，不能验证真人相貌。"
+    },
+    {
+      "id": "hongzhi",
+      "source": "inputs/09_hongzhi_source.jpg",
+      "portrait": "inputs/09_hongzhi_portrait.png",
+      "output": "outputs/09_hongzhi_comparison.png",
+      "crop": [
+        850,
+        750,
+        1420,
+        1463
+      ],
+      "title": "弘治 | 朱祐樘",
+      "caption": "国立故宫博物院，台北 | 馆藏原画。右：AI 写实转写，不能验证真人相貌。"
+    },
+    {
+      "id": "zhengde",
+      "source": "inputs/10_zhengde_source.png",
+      "portrait": "inputs/10_zhengde_portrait.png",
+      "output": "outputs/10_zhengde_comparison.png",
+      "crop": [
+        790,
+        375,
+        1320,
+        1038
+      ],
+      "title": "正德 | 朱厚照",
+      "caption": "国立故宫博物院，台北 | 馆藏原画。右：AI 写实转写，不能验证真人相貌。"
+    },
+    {
+      "id": "jiajing",
+      "source": "inputs/11_jiajing_source.jpg",
+      "portrait": "inputs/11_jiajing_portrait.png",
+      "output": "outputs/11_jiajing_comparison.png",
+      "crop": [
+        850,
+        690,
+        1430,
+        1415
+      ],
+      "title": "嘉靖 | 朱厚熜",
+      "caption": "国立故宫博物院，台北 | 馆藏原画。右：AI 写实转写，不能验证真人相貌。"
+    },
+    {
+      "id": "longqing",
+      "source": "inputs/12_longqing_source.jpg",
+      "portrait": "inputs/12_longqing_portrait.png",
+      "output": "outputs/12_longqing_comparison.png",
+      "crop": [
+        1450,
+        1000,
+        2350,
+        2200
+      ],
+      "title": "隆庆 | 朱载坖",
+      "caption": "国立故宫博物院，台北 | 馆藏原画。右：AI 写实转写，不能验证真人相貌。"
+    },
+    {
+      "id": "wanli",
+      "source": "inputs/13_wanli_source.jpg",
+      "portrait": "inputs/13_wanli_portrait.png",
+      "output": "outputs/13_wanli_comparison.png",
+      "crop": [
+        1420,
+        1110,
+        2520,
+        2577
+      ],
+      "title": "万历 | 朱翊钧",
+      "caption": "国立故宫博物院，台北 | 馆藏原画。右：AI 写实转写，不能验证真人相貌。"
+    },
+    {
+      "id": "taichang",
+      "source": "inputs/14_taichang_source.jpg",
+      "portrait": "inputs/14_taichang_portrait.png",
+      "output": "outputs/14_taichang_comparison.png",
+      "crop": [
+        1360,
+        990,
+        2480,
+        2483
+      ],
+      "title": "泰昌 | 朱常洛",
+      "caption": "国立故宫博物院，台北 | 馆藏原画。右：AI 写实转写，不能验证真人相貌。"
+    },
+    {
+      "id": "tianqi",
+      "source": "inputs/15_tianqi_source.jpg",
+      "portrait": "inputs/15_tianqi_portrait.png",
+      "output": "outputs/15_tianqi_comparison.png",
+      "crop": [
+        1500,
+        1400,
+        2370,
+        2560
+      ],
+      "title": "天启 | 朱由校",
+      "caption": "国立故宫博物院，台北 | 馆藏原画。右：AI 写实转写，不能验证真人相貌。"
+    },
+    {
+      "id": "chongzhen",
+      "source": "inputs/16_chongzhen_source.jpg",
+      "portrait": "inputs/16_chongzhen_portrait.png",
+      "output": "outputs/16_chongzhen_comparison.png",
+      "crop": [
+        105,
+        280,
+        590,
+        927
+      ],
+      "title": "崇祯 | 朱由检",
+      "caption": "哈佛图书馆藏本；Wikimedia Commons 转引 | 后世版画。右：AI 写实转写，不能验证真人相貌。"
+    }
+  ]
+}

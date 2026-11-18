@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "person_id": "replace-with-person-id",
+  "person_name": null,
+  "source": {
+    "title": null,
+    "creator": null,
+    "institution": null,
+    "accession": null,
+    "work_date": null,
+    "subject_lifetime": null,
+    "identity_basis": null,
+    "source_page": null,
+    "download_url": null,
+    "retrieved_at": null,
+    "sha256": null,
+    "dimensions": null,
+    "rights_statement": null,
+    "license_url": null,
+    "rights_source_url": null,
+    "redistribution_status": "unverified"
+  },
+  "reference": {
+    "crop_xyxy": null,
+    "sha256": null,
+    "inspected": false
+  },
+  "features": {
+    "LOCK": [],
+    "SOFT": [],
+    "UNKNOWN": [],
+    "FORBID": []
+  },
+  "generation": {
+    "backend": null,
+    "model_as_reported": null,
+    "reference_image_supplied": null,
+    "prompt_file": null,
+    "generated_at": null,
+    "output_sha256": null
+  },
+  "review": {
+    "source_fidelity": "not-reviewed",
+    "historical_likeness": "not-verifiable",
+    "comparison_file": null
+  }
+}
+
