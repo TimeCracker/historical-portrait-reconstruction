@@ -4,35 +4,33 @@
     2100,
     727
   ],
-  "sha256": "2e3ba506a08db6f033ac991ceb2415809471055a0c6610a14258a57141633e6e",
-  "method": "Rectangular crops and proportional Lanczos resizing in the comparison compositor, followed by a lossless WebP layout.",
+  "sha256": "4e56ec49ee59223f713a3a9973bcbdd727c80b808db65fa03721ca02387ce258",
+  "method": "Both panels for each person are taken from the selected comparison JPEG. Panels are cropped and proportionally resized with Lanczos, then assembled in a lossless WebP layout.",
   "items": [
     {
       "id": "li-shimin",
       "person": "李世民",
       "source": {
-        "title": "唐太宗立像（一）",
-        "institution": "National Palace Museum, Taipei",
-        "artist": "Unknown",
-        "accession": "中畫000263N000000000",
-        "work_date": "Ming dynasty",
-        "date_source": "https://tcmb.culture.tw/zh-tw/detail?id=20211220000001&indexCode=BOCH_CountryCulture_61",
-        "provenance": "Nanxun Hall collection. The portrait was remounted in 1748.",
-        "catalogue_url": "https://digitalarchive.npm.gov.tw/Collection/Detail/1825?dep=P",
-        "full_image_and_rights_url": "https://commons.wikimedia.org/wiki/File:TangTaizong.jpg",
-        "scan_download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/TangTaizong.jpg/1280px-TangTaizong.jpg",
-        "rights_statement": "Wikimedia Commons marks this faithful 2D reproduction as public domain under PD-Art.",
+        "title": "步辇图",
+        "institution": "The Palace Museum, Beijing",
+        "artist": "Traditionally attributed to Yan Liben",
+        "accession": "新00119106",
+        "work_date": "Catalogued by the Palace Museum as Tang dynasty. The date of the surviving scroll is debated.",
+        "date_source": "https://minghuaji.dpm.org.cn/paint/detail?id=4b24c04a7a544661a1d523b98f74fdd3",
+        "provenance": "Detail showing the seated Emperor Taizong in the selected comparison image.",
+        "catalogue_url": "https://www.dpm.org.cn/collection/paint/234620.html",
+        "full_image_and_rights_url": "https://commons.wikimedia.org/wiki/File:%E9%98%8E%E7%AB%8B%E6%9C%AC%E6%AD%A5%E8%BE%87%E5%9B%BE%E5%8D%B7.png",
         "public_domain_mark_url": "https://creativecommons.org/publicdomain/mark/1.0/",
-        "display_input_sha256": "b7ab13445bd9fddd8dc6ac2794f44d5aeda6ff4a6eee3892e0d54b32321e2352",
+        "display_input_sha256": "1b8e3fff50e9c9033cd58e6df87ce9522a08a044cfa1a67e4a5cdae7d501fff5",
         "display_input_dimensions": [
-          1280,
-          2652
+          1448,
+          1086
         ],
         "crop_xyxy": [
-          410,
-          185,
-          930,
-          835
+          45,
+          26,
+          717,
+          866
         ],
         "banner_box_xyxy": [
           42,
@@ -40,23 +38,28 @@
           362,
           611
         ],
-        "retrieved_at": "2026-11-18"
+        "full_image_rights_statement": "Wikimedia Commons marks the linked full image as a public-domain reproduction.",
+        "display_input_kind": "Left panel of the supplied comparison JPEG"
       },
       "interpretation": {
-        "asset": "Previously generated portrait",
-        "note": "The earlier frontal portrait used multiple historical references. The Ming standing portrait was a supplementary reference and is the painting shown here.",
-        "input_sha256": "b3855bc25581333a56a866cfe0cd4423216e521cff3641a49bfbee8d0670021a",
+        "asset": "Right panel of the supplied comparison JPEG",
+        "note": "Three-quarter interpretation in a red robe, as shown in the selected comparison.",
+        "input_sha256": "1b8e3fff50e9c9033cd58e6df87ce9522a08a044cfa1a67e4a5cdae7d501fff5",
         "crop_xyxy": [
-          207,
-          0,
-          1087,
-          1100
+          730,
+          26,
+          1402,
+          866
         ],
         "banner_box_xyxy": [
           370,
           211,
           690,
           611
+        ],
+        "input_dimensions": [
+          1448,
+          1086
         ]
       }
     },
@@ -73,19 +76,17 @@
         "provenance": "Nanxun Hall collection. The portrait is unsigned. The title slip probably dates to a Qing remounting.",
         "catalogue_url": "https://digitalarchive.npm.gov.tw/Collection/Detail/1864?dep=P",
         "full_image_and_rights_url": "https://commons.wikimedia.org/wiki/File:Song_Taizu.jpg",
-        "scan_download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Song_Taizu.jpg/1920px-Song_Taizu.jpg",
-        "rights_statement": "Wikimedia Commons marks this faithful 2D reproduction as public domain under PD-Art.",
         "public_domain_mark_url": "https://creativecommons.org/publicdomain/mark/1.0/",
-        "display_input_sha256": "7d3da3855c6ad81d4f8e1c11d3e698bcec225476c378e476403bd013adfa10e5",
+        "display_input_sha256": "dc541e46e4b1fc1f72e1250948606b7bfbf1370d3c2624a6afff85d377efe7df",
         "display_input_dimensions": [
-          1920,
-          2155
+          1448,
+          1086
         ],
         "crop_xyxy": [
-          676,
-          36,
-          1204,
-          696
+          43,
+          22,
+          715,
+          862
         ],
         "banner_box_xyxy": [
           726,
@@ -93,23 +94,28 @@
           1046,
           611
         ],
-        "retrieved_at": "2026-11-18"
+        "full_image_rights_statement": "Wikimedia Commons marks the linked full image as a public-domain reproduction.",
+        "display_input_kind": "Left panel of the supplied comparison JPEG"
       },
       "interpretation": {
-        "asset": "Previously generated portrait",
-        "note": "The earlier frontal interpretation depicts the cream robe and extended hat wings of the reference.",
-        "input_sha256": "0a8ae9b771b7c6f9864ba281d74df24070bdf0769bd8fd42b3e5ae9997e202c5",
+        "asset": "Right panel of the supplied comparison JPEG",
+        "note": "Three-quarter interpretation with the extended hat wings and pale robe.",
+        "input_sha256": "dc541e46e4b1fc1f72e1250948606b7bfbf1370d3c2624a6afff85d377efe7df",
         "crop_xyxy": [
-          212,
-          0,
-          684,
-          590
+          732,
+          22,
+          1404,
+          862
         ],
         "banner_box_xyxy": [
           1054,
           211,
           1374,
           611
+        ],
+        "input_dimensions": [
+          1448,
+          1086
         ]
       }
     },
@@ -126,19 +132,17 @@
         "provenance": "Nanxun Hall collection. The earlier example used the round-faced court portrait.",
         "catalogue_url": "https://digitalarchive.npm.gov.tw/Collection/Detail/1873?dep=P",
         "full_image_and_rights_url": "https://commons.wikimedia.org/wiki/File:Portrait_assis_de_l%27empereur_Ming_Taizu.jpg",
-        "scan_download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Portrait_assis_de_l%27empereur_Ming_Taizu.jpg/3840px-Portrait_assis_de_l%27empereur_Ming_Taizu.jpg",
-        "rights_statement": "Wikimedia Commons marks this faithful 2D reproduction as public domain under PD-Art.",
         "public_domain_mark_url": "https://creativecommons.org/publicdomain/mark/1.0/",
-        "display_input_sha256": "b598ee11597c79687e0a3320f3457a0cba6ff729f0aecd1772c90bf416b5dee4",
+        "display_input_sha256": "c0d0a82b2cbe2b99cea7525a1f6bdcf1f008ffc1cc2e369744c616512503eaed",
         "display_input_dimensions": [
           1480,
           1230
         ],
         "crop_xyxy": [
-          28,
+          30,
           130,
-          728,
-          1005
+          726,
+          1000
         ],
         "banner_box_xyxy": [
           1410,
@@ -165,23 +169,29 @@
             1053
           ],
           "notes": "The source panel is re-cropped from the prior comparison board. Download details and the prior scan hash come from examples/ming-portraits/sources.json."
-        }
+        },
+        "full_image_rights_statement": "Wikimedia Commons marks the linked full image as a public-domain reproduction.",
+        "display_input_kind": "Left panel of the supplied comparison JPEG"
       },
       "interpretation": {
-        "asset": "Previously generated portrait",
-        "note": "Previously generated round-faced interpretation associated with this exact source painting.",
-        "input_sha256": "e6101cd60ddd9cbd3e648a37452929809a27df4bd3a7d619ed22dd52fd62fe67",
+        "asset": "Right panel of the supplied comparison JPEG",
+        "note": "Round-faced interpretation shown in the supplied comparison with Seated Portrait of Ming Taizu (VII).",
+        "input_sha256": "c0d0a82b2cbe2b99cea7525a1f6bdcf1f008ffc1cc2e369744c616512503eaed",
         "crop_xyxy": [
-          4,
-          33,
-          1084,
-          1383
+          754,
+          130,
+          1450,
+          1000
         ],
         "banner_box_xyxy": [
           1738,
           211,
           2058,
           611
+        ],
+        "input_dimensions": [
+          1480,
+          1230
         ]
       }
     }

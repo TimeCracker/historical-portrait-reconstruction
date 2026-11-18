@@ -17,15 +17,15 @@ Any future bundled image must have a per-file provenance and rights record, incl
 
 ## README banner
 
-The left panel of each pair shows a detail of a painting in the National Palace Museum, Taipei. The right panels reuse previously generated interpretations.
+The banner uses the three selected comparison images. The left panels show details of the artworks listed below. The right panels show the corresponding AI interpretations.
 
-| Subject | Painting | Accession | Full image |
-| --- | --- | --- | --- |
-| Li Shimin | [唐太宗立像（一）](https://digitalarchive.npm.gov.tw/Collection/Detail/1825?dep=P) | 中畫000263N000000000 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TangTaizong.jpg) |
-| Zhao Kuangyin | [宋太祖坐像](https://digitalarchive.npm.gov.tw/Collection/Detail/1864?dep=P) | 中畫000302N000000000 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Song_Taizu.jpg) |
-| Zhu Yuanzhang | [明太祖坐像（七）](https://digitalarchive.npm.gov.tw/Collection/Detail/1873?dep=P) | 中畫000311N000000000 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Portrait_assis_de_l%27empereur_Ming_Taizu.jpg) |
+| Subject | Painting | Collection | Accession | Full image |
+| --- | --- | --- | --- | --- |
+| Li Shimin | [步辇图](https://www.dpm.org.cn/collection/paint/234620.html) | The Palace Museum, Beijing | 新00119106 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E9%98%8E%E7%AB%8B%E6%9C%AC%E6%AD%A5%E8%BE%87%E5%9B%BE%E5%8D%B7.png) |
+| Zhao Kuangyin | [宋太祖坐像](https://digitalarchive.npm.gov.tw/Collection/Detail/1864?dep=P) | National Palace Museum, Taipei | 中畫000302N000000000 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Song_Taizu.jpg) |
+| Zhu Yuanzhang | [明太祖坐像（七）](https://digitalarchive.npm.gov.tw/Collection/Detail/1873?dep=P) | National Palace Museum, Taipei | 中畫000311N000000000 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Portrait_assis_de_l%27empereur_Ming_Taizu.jpg) |
 
-Wikimedia Commons marks the source scans as faithful public-domain reproductions. The banner crops and proportionally resizes the scans, including the source panel from the earlier Zhu Yuanzhang comparison. The artwork, scan rights, crop coordinates, and image hashes are documented in [banner-sources.json](assets/banner-sources.json). The banner is a project illustration. The MIT license applies to the repository material described above.
+Wikimedia Commons marks the linked full images as public-domain reproductions. The banner panels are crops of the supplied comparisons, resized proportionally. The exact input hashes and crop coordinates are documented in [banner-sources.json](assets/banner-sources.json). The banner is a project illustration. The MIT license applies to the repository material described above.
 
 ## Pillow
 
